@@ -2,7 +2,7 @@
 
 # title: My Title (from config.yml file)
 # Site settings
-title: Terry's Website
+title: Terry's Sample Website
 # theme: minima
 theme: jekyll-theme-minimal
 # description: Objective: Demonstrate how to use GitHub Pages
