@@ -1,6 +1,6 @@
 <img src="./Resources/TRG_ellipse.PNG" alt="TRG_ellipse" style="zoom:20%;" />
 
-Here is a bunch of boring info ... try not to yawn ().
+Here is a bunch of boring info ... try not to yawn ()...
 
 I grew up near Toledo, Ohio, attended Purdue University and received BS and MS degrees in Civil (Structural) Engineering. After graduation, I moved to Houston and joined Exxon where I worked my entire career. I started out designing offshore platforms, became involved in project management and spent about 15 years on overseas assignments in Australia, Norway, Malaysia and Qatar.
 
