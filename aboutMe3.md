@@ -1,6 +1,6 @@
 
 
-<img src="./Resources/TRG_ellipse.PNG" alt="TRG_ellipse" style="zoom:33%;" />
+<img src="./Resources/TRG_ellipse.PNG" alt="TRG_ellipse" style="zoom:20%;" />
 
 Here is a bunch of boring info ... try not to yawn.
 
