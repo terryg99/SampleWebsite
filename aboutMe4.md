@@ -1,7 +1,6 @@
 ---
-title: Terry G
 theme: jekyll-theme-minimal
-​---
+---
 
 
 
