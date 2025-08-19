@@ -1,6 +1,10 @@
-This page is about me!
+---
+Title: About Me
+---
 
-<img src="./Resources/TRG_ellipse.PNG" alt="TRG_ellipse" style="zoom:50%;" />
+
+
+<img src="./Resources/TRG_ellipse.PNG" alt="TRG_ellipse" style="zoom:40%;" />
 
 Here is a bunch of boring info ... try not to yawn.
 
