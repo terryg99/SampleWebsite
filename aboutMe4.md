@@ -1,6 +1,7 @@
 ---
-title: Hello World
+title: Title from md file
 ---
+
 
 <img src="./Resources/TRG_ellipse.PNG" alt="TRG_ellipse" style="zoom:20%;" />
 
