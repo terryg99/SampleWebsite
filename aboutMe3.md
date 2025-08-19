@@ -5,7 +5,7 @@ layout: default
 
 
 
-<img src="./Resources/TRG_ellipse.PNG" alt="TRG_ellipse" style="zoom:40%;" />
+<img src="./Resources/TRG_ellipse.PNG" alt="TRG_ellipse" style="zoom:25%;" />
 
 Here is a bunch of boring info ... try not to yawn.
 
