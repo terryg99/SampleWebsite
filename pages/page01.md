@@ -1,4 +1,5 @@
-### This is page01
+### This is page 1
+
 #### This is an image of the green folder icon:
 ![green_folder](../Resources/green_folder.png)
 #### Attempting to place two images on same line:
