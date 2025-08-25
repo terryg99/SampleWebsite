@@ -12,5 +12,7 @@ renders the page correctly. Use this technique to create a
 clickable image link back to the home page.
 -->
 [![yellow_folder](../yellow_folder.png)](../index.html)
+#### Attempting to scale the green image:
+![green_folder](../Resources/green_folder.png){:height="100px" width="100px"}
 #### Return to opening page (home):
 [home](../index.)
