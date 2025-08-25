@@ -5,6 +5,6 @@
 #### Two images on from Resources on same line:
 ![green _folder](../Resources/green_folder.png) ![blue_folder](../Resources/blue_folder.png)
 #### Using image to link back to home page:
-[![yellow_folder](../yellow_folder.png)](../index.md)
+[![yellow_folder](../yellow_folder.png)](../index.html)
 #### Return to opening page (home):
-[home](../index.md)
+[home](../index.)
