@@ -5,3 +5,5 @@
 ![blue_folder](./Resources/blue_folder.png)
 #### Here's a link to another page:
 [page01](pages/page01.md)
+#### Here's a link to yet another page:
+[page02](pages/page02.md)
