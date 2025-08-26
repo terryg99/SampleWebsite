@@ -14,5 +14,15 @@ clickable image link back to the home page.
 [![yellow_folder](../yellow_folder.png)](../index.html)
 #### Attempting to scale the green image:
 ![green_folder](../Resources/green_folder.png){:height="150px" width="150px"}
+<!-- 
+Note in the following, I am attempting to break a long line
+of text into multiple lines in my editor for readability.
+The first two lines I copued and pasted from a reference.
+At the end of the second line, I used a fn-return keystroke,
+then typed the third line manually.
+-->
+This very long line of text will be broken into multiple lines in my editor for readability.
+This is the second line in my editor, but the rendered output will ignore the line break.
+And this is the third line, created after typing fn-return { #paragraph-id style="color: green;" }
 #### Return to opening page (home):
 [home](../index.)
