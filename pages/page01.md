@@ -7,7 +7,7 @@ to access the Resources folder.
 ![green_folder](../Resources/green_folder.png)
 
 #### Two images from Resources on same line:
-![green _folder]../Resources/green_folder.png) ![blue_folder](../Resources/blue_folder.png)
+![green _folder](../Resources/green_folder.png) ![blue_folder](../Resources/blue_folder.png)
 #### Using image to link back to home page:
 <!-- 
 Note in the following, if I use index.md, the browser displays
