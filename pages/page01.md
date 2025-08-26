@@ -14,6 +14,7 @@ clickable image link back to the home page.
 [![yellow_folder](../yellow_folder.png)](../index.html)
 #### Attempting to scale the green image:
 ![green_folder](../Resources/green_folder.png){:height="150px" width="150px"}
+
 <!-- 
 Note in the following, I am attempting to break a long line
 of text into multiple lines in my editor for readability.
