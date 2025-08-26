@@ -1,9 +1,13 @@
 ### This is page 1
-
+<!-- 
+Note in the following, I use the ../ to go up one directory level
+to access the Resources folder.
+-->
 #### This is an image from Resources:
 ![green_folder](../Resources/green_folder.png)
-#### Two images on from Resources on same line:
-![green _folder](../Resources/green_folder.png) ![blue_folder](../Resources/blue_folder.png)
+
+#### Two images from Resources on same line:
+![green _folder](/Resources/green_folder.png) ![blue_folder](/Resources/blue_folder.png)
 #### Using image to link back to home page:
 <!-- 
 Note in the following, if I use index.md, the browser displays
@@ -18,7 +22,7 @@ clickable image link back to the home page.
 <!-- 
 Note in the following, I am attempting to break a long line
 of text into multiple lines in my editor for readability.
-The first two lines I copued and pasted from a reference.
+The first two lines I copied and pasted from a reference.
 At the end of the second line, I used a fn-return keystroke,
 then typed the third line manually.
 -->
