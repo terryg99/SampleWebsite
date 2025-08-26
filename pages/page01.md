@@ -30,7 +30,7 @@ This very long line of text will be broken into multiple lines in my editor for 
 This is the second line in my editor, but the rendered output will ignore the line break.
 And this is the third line, created after typing fn-return 
 
-Here is another line of text that I would like to appear as green { #paragraph-id style="color: green;" }
+<span style="color: green;">Here is another line of text that I would like to appear as green </span>>
 
 Here is a line of text that should appear in red font {: style="color:#c70039;"}
 
