@@ -32,7 +32,7 @@ And this is the third line, created after typing fn-return
 
 <span style="color: green;">Here is another line of text that I would like to appear as green </span>>
 
-Here is a line of text that should appear in red font {: style="color:#c70039;"}
+<span style="color: #FF0000;">Here is a line of text that should appear in red font </span>>
 
 #### Return to opening page (home):
 [home](../index.)
