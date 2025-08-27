@@ -1,4 +1,17 @@
-### This is the sample website
+### My "first" demo website
+This is a simple website that demonstrates the workflow
+to create/edit markdown files using VSCode, push them to a 
+GitHub repository, build and deploy a collection of HTML files 
+using GitHub Pages, and view the result in Safari.
+
+By "first", I am referring to efforts in 2025. I did some similar work a few years 
+ago, but it is completely forgotten.
+
+
+
+
+
+
 #### Here is an image of the yellow folder icon:
 ![yellow_folder](./yellow_folder.png)
 #### Here is an image of the blue folder icon:
