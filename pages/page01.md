@@ -11,10 +11,10 @@ to access the Resources folder.
 
 #### This uses an image to link back to the home page:
 <!-- 
-Note in the following, if I use index.md, the browser displays
-the markdown file as plain text. If I use index.html, the browser
-renders the page correctly. Use this technique to create a
-clickable image link back to the home page.
+Note in the following, if I use index.md, VSCode previews correctly but the 
+browser displays the markdown file as plain text. If I use index.html, the browser
+renders the page correctly, but the link is broken in VSCode. 
+Use this technique to create a clickable image link back to the home page.
 -->
 [![yellow_folder](../yellow_folder.png)](../index.html)
 
@@ -40,4 +40,4 @@ And this is the third line, created after typing fn-return
 <span style="color: #FF0000;">Here is a line of text that should appear in red font </span>>
 
 #### Return to opening page (home):
-[home](../index.)
+[home](../index.md)
