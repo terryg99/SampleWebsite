@@ -1,6 +1,6 @@
 ### This is page 2
 
-![AI Tiers](../Resources/AI_Tiers.png){: width="600px" }
+![AI tiers](../Resources/AI_tiers.png){: width="600px" }
 
 #### Here is some fenced code
 ````markdown
