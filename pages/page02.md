@@ -4,7 +4,7 @@
 
 #### Here is some fenced code
 ````markdown
-### This is page 1
+### This is a markdown header, level 3
 <!-- 
 Note in the following, I use the ../ to go up one directory level
 to access the Resources folder.
@@ -16,5 +16,6 @@ to access the Resources folder.
 ![green _folder](../Resources/green_folder.png) ![blue_folder](../Resources/blue_folder.png)
 #### Using image to link back to home page:
 ````
+
 #### Return to opening page (home):
 [home](../index.md)
