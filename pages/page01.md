@@ -16,10 +16,10 @@ browser displays the markdown file as plain text. If I use index.html, the brows
 renders the page correctly, but the link is broken in VSCode. 
 Use this technique to create a clickable image link back to the home page.
 -->
-[![yellow_folder](../yellow_folder.png)](/index.html)
+[![yellow_folder](/yellow_folder.png)](/index.html)
 
 #### Fix the dimensions of the green image using attribute list:
-![green_folder](../Resources/green_folder.png){:height="150px" width="150px"}
+![green_folder](/Resources/green_folder.png){:height="150px" width="150px"}
 
 #### This creates a long block of text that will wrap in the browser. 
 <!-- 
