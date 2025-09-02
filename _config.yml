@@ -2,8 +2,8 @@
 
 # title: My Title (from config.yml file)
 # Site settings
-title: Terry's Sample Website
-# theme: minima
+title: Terry's Sample Website 3
+theme: jekyll-theme-cayman
 # theme: jekyll-theme-minimal
 # description: Objective: Demonstrate how to use GitHub Pages
 # url: "https://terryg99.github.io" # Update with your GitHub Pages URL

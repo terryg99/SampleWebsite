@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+
 ### My "first" demo website
 This is a simple website that demonstrates the workflow
 to create/edit markdown files using VSCode, push them to a 
