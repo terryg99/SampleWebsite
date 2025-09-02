@@ -4,7 +4,7 @@ Note in the following, I use the ../ to go up one directory level
 to access the Resources folder.
 -->
 #### This is an image from Resources:
-![green_folder](/Resources/green_folder.png)
+![green_folder](/Resources/green_folder.png | site.baseurl)
 
 #### Two images from Resources on same line:
 ![green _folder](/Resources/green_folder.png) ![blue_folder](../Resources/blue_folder.png)
