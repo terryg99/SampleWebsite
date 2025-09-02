@@ -18,9 +18,9 @@ ago, but it is completely forgotten.
 
 
 
-#### Here is an image of the yellow folder icon:
+#### Here is an image of the yellow folder icon, located in the project's root directory:
 ![yellow_folder](./yellow_folder.png)
-#### Here is an image of the blue folder icon:
+#### Here is an image of the blue folder icon, located in the project's Resources folder:
 ![blue_folder](./Resources/blue_folder.png)
 #### Here's a link to page 1:
 [Image Samples](pages/page01.md)
