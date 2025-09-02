@@ -40,4 +40,4 @@ And this is the third line, created after typing fn-return
 <span style="color: #FF0000;">Here is a line of text that should appear in red font </span>>
 
 #### Return to opening page (home):
-[home](../index.md)
+[home](/index.md)
