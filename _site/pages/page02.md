@@ -16,6 +16,10 @@ to access the Resources folder.
 ![green _folder](../Resources/green_folder.png) ![blue_folder](../Resources/blue_folder.png)
 #### Using image to link back to home page:
 ````
+#### This demonstrates how to access the variables defined in the _config.yml file:
+The site title is: {{ site.title }}
+
+
 
 #### Return to opening page (home):
 [home](../index.md)
