@@ -5,6 +5,7 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "webrick"
 gem "jekyll-theme-cayman"
+# gem "jekyll-theme-minima"
 group :jekyll_plugins do
   gem "github-pages"
 end

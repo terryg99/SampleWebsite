@@ -19,6 +19,14 @@ to access the Resources folder.
 #### This demonstrates how to access the variables defined in the _config.yml file:
 The site title is: {{ site.title }}
 
+The site theme is: {{ site.theme }}
+
+The site description is: {{ site.description }}
+
+The site baseurl is: {{ site.baseurl }}
+
+The site url is: {{ site.url }}
+
 
 
 #### Return to opening page (home):

@@ -2,12 +2,12 @@
 
 # title: My Title (from config.yml file)
 # Site settings
-title: Terry's Sample Website 3
+title: Terry's Sample Website 4
 theme: jekyll-theme-cayman
 # theme: jekyll-theme-minimal
 # description: Objective: Demonstrate how to use GitHub Pages
 url: "https://terryg99.github.io" # Update with your GitHub Pages URL
-baseurl: "/SampleWebsite3" # Should be empty for GitHub Pages, or the name of subfolder if the site is served in a subfolder
+baseurl: "/SampleWebsite4" # Should be empty for GitHub Pages, or the name of subfolder if the site is served in a subfolder
 
 # GitHub Pages settings
 # repository: terryg99/SampleWebsite # Update with your GitHub repository
