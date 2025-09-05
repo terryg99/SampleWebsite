@@ -200,10 +200,6 @@ GEM
     jekyll-theme-midnight (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-minima (0.1.1)
-      jekyll (~> 3.8)
-      jekyll-mentions
-      minima
     jekyll-theme-minimal (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
@@ -327,8 +323,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
-  jekyll-theme-cayman
-  jekyll-theme-minima
+  minima
   webrick
 
 BUNDLED WITH

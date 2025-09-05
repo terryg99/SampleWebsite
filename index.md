@@ -16,16 +16,13 @@ ago, but it is completely forgotten.
 
 
 
-
-
-
 #### Here is an image of the yellow folder icon, located in the project's root directory:
-![yellow_folder](./yellow_folder.png)
+![yellow_folder](/yellow_folder.png)
 #### Here is an image of the blue folder icon, located in the project's Resources folder:
-![blue_folder](./Resources/blue_folder.png)
+![blue_folder]({{ site.baseURL }}/Resources/blue_folder.png)
 #### Here's a link to page 1:
-[Image Samples](pages/page01.md)
+[Page01](pages/page01.md)
 #### Here's a link to page 2:
-[page02](pages/page02.md)
+[Page02](pages/page02.md)
 #### Here's a link to page 3:
-[page03](pages/page03.md)
+[Page03](pages/page03.md)
