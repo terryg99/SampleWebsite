@@ -21,7 +21,7 @@ renders the page correctly, but the link is broken in VSCode.
 Use this technique to create a clickable image link back to the home page.
 -->
 
-[![yellow_folder]({{ site.baseurl }}/Resources/yellow_folder.png)]({{ site.baseurl }}/index.html)
+[![yellow_folder]({{ site.baseurl }}/yellow_folder.png)]({{ site.baseurl }}/index.html)
 
 #### Fix the dimensions of the green image using attribute list:
 ![green_folder]({{ site.baseurl }}/Resources/green_folder.png){:height="150px" width="150px"}
