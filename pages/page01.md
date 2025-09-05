@@ -46,4 +46,4 @@ And this is the third line, created after typing fn-return
 <!-- 
 Note use of index.html rather than index.md 
 -->
-[home]({{site.baseurl}}/index.html)
+[home]({{ site.baseurl }}/index.html)
